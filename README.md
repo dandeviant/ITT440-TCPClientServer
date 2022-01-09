@@ -5,6 +5,6 @@ Client Server programs using Transmission Control Protocol
 
 Objective is to communicate between two Linux machines; client and server.
 
-Language USed:\
+Language Used:\
 Client: Python\
 Server: C
